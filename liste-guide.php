@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>liste guide</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php
+require_once __DIR__ . '/elements/header.php';
+require_once __DIR__ . '/elements/footer.php';
