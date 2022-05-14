@@ -3,6 +3,6 @@
 <head>
     <link rel="stylesheet" href="../style/style.css">
     <meta charset="UTF-8">
-    <title>liste guide</title>
+    <title>appli-scout</title>
 </head>
 <body>
